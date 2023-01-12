@@ -1,3 +1,4 @@
+![header](https://capsule-render.vercel.app/api?type=shark&color=timeGradient&height=120&section=header&text=WELCOME&fontSize=90&fontColor=FFC300)
 ### Hi there 👋
 
 <!--
