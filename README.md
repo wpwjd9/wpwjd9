@@ -1,7 +1,7 @@
 ![header](https://capsule-render.vercel.app/api?type=shark&color=timeGradient&height=120&section=header&text=WELCOME&fontSize=90&fontColor=FFC300)
 ### Hi there 👋
 
-- 📫 How to reach me: wpwjd9@gmail.com
+📫 How to reach me: wpwjd9@gmail.com
 
 <!--
 **wpwjd9/wpwjd9** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
